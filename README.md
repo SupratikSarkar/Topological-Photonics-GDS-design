@@ -13,9 +13,9 @@ The code goes through the following steps for chip design:
 
 2. Design two types of grating couplers:
 
-![image](https://github.com/user-attachments/assets/67596de7-a22d-4661-b6ec-401396d33637)
+![image](https://github.com/user-attachments/assets/6d8e19f1-8968-4c07-b145-927b4a03fd5c)
 
-![image](https://github.com/user-attachments/assets/8777ad01-5269-4ebc-9ceb-543226badc00)
+![image](https://github.com/user-attachments/assets/79cc575f-dfd3-4318-992a-3a822322c8a3)
 
 3. Design a 1D chain of coupled resonators with grating couplers:
 
