@@ -5,7 +5,7 @@ The respository contains Python codes that use GDSfactory to generate GDS chip d
 1. Christopher J. Flower _et al_., Observation of topological frequency combs. Science **384**, 1356-1361 (2024). DOI:[10.1126/science.ado0053](https://www.science.org/doi/full/10.1126/science.ado0053)
 2. Sunil Mittal _et al_. A topological source of quantum light. Nature **561**, 502–506 (2018). DOI:[10.1038/s41586-018-0478-3](https://www.nature.com/articles/s41586-018-0478-3)
 
-The file QHE lattice - github.ipynb goes through the following steps for chip design:
+The file QHE lattice - grating couplers.ipynb goes through the following steps for chip design:
 
 1. Design resonator with Euler bends:
 
