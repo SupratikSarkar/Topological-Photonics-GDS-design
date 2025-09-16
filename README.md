@@ -30,3 +30,7 @@ The file QHE lattice - github.ipynb goes through the following steps for chip de
 ![image](https://github.com/user-attachments/assets/09f13f7d-b8c4-4ac3-9424-46564085252e)
 
 ![image](https://github.com/user-attachments/assets/2d6403e5-7379-4cd0-b506-fec19f2e5846)
+
+The file QHE lattice - edge couplers.ipynb uses a PDK to generate the following chip design:
+
+<img width="1354" height="633" alt="image" src="https://github.com/user-attachments/assets/39cfe376-3823-4883-92e8-dfc4861c0518" />
