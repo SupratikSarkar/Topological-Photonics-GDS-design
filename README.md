@@ -1,11 +1,11 @@
 # Topological-Photonics-GDS-design
 
-The respository contains Python codes that use GDSfactory to generate GDS chip design files for topological photonics lattices (both integer and anomalous quantum Hall) found in the following literature:
+The repository contains Python codes that use GDSfactory to generate GDS chip design files for topological photonics lattices (both integer and anomalous quantum Hall) found in the following literature:
 
 1. Christopher J. Flower _et al_., Observation of topological frequency combs. Science **384**, 1356-1361 (2024). DOI:[10.1126/science.ado0053](https://www.science.org/doi/full/10.1126/science.ado0053)
 2. Sunil Mittal _et al_. A topological source of quantum light. Nature **561**, 502–506 (2018). DOI:[10.1038/s41586-018-0478-3](https://www.nature.com/articles/s41586-018-0478-3)
 
-The file QHE lattice - grating couplers.ipynb goes through the following steps for chip design:
+The file _QHE lattice - grating couplers.ipynb_ goes through the following steps for chip design:
 
 1. Design resonator with Euler bends:
 
@@ -31,6 +31,6 @@ The file QHE lattice - grating couplers.ipynb goes through the following steps f
 
 ![image](https://github.com/user-attachments/assets/2d6403e5-7379-4cd0-b506-fec19f2e5846)
 
-The file QHE lattice - edge couplers.ipynb uses a PDK to generate the following chip design:
+The file _QHE lattice - edge couplers.ipynb_ uses a PDK to generate the following chip design:
 
 <img width="1354" height="633" alt="image" src="https://github.com/user-attachments/assets/39cfe376-3823-4883-92e8-dfc4861c0518" />
